@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather App</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_input">Zip or Location</string>
+    <string name="radio_c">C&#176;</string>
+    <string name="radio_f">F&#176;</string>
+    <string name="input_button">Search</string>
+
+</resources>
